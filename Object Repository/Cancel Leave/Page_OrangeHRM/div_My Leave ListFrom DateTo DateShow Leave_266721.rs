@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_My Leave ListFrom DateTo DateShow Leave_266721</name>
+   <tag></tag>
+   <elementGuidId>1c33ec81-eb7b-4d96-9fa9-658e3b5e57b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>16e97062-eeaa-4a48-a82d-9a9dc97c7c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>9bdc5c94-642e-46af-a235-c3695d2f721c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Leave ListFrom DateTo DateShow Leave with StatusSelectRejected Cancelled Pending Approval Scheduled Taken Leave Type-- Select -- * Required Reset  Search (1) Record SelectedDateEmployee NameLeave TypeLeave Balance (Days)Number of DaysStatusCommentsActions2023-11-15 to 2023-11-16David Capcha HUGCAN - Vacation14.001.00Cancelled (1.00)Vacation</value>
+      <webElementGuid>2a147bbe-df1c-46c3-98fd-00c88b31e784</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>0b374069-e061-4aa2-9343-51b0e4cc4cc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>ea62f4e8-97d7-4f60-859b-3a65aed6c65f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>83bd96cd-9ca9-4c9d-ab1b-9e659f78c71e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'My Leave ListFrom DateTo DateShow Leave with StatusSelectRejected Cancelled Pending Approval Scheduled Taken Leave Type-- Select -- * Required Reset  Search (1) Record SelectedDateEmployee NameLeave TypeLeave Balance (Days)Number of DaysStatusCommentsActions2023-11-15 to 2023-11-16David Capcha HUGCAN - Vacation14.001.00Cancelled (1.00)Vacation' or . = 'My Leave ListFrom DateTo DateShow Leave with StatusSelectRejected Cancelled Pending Approval Scheduled Taken Leave Type-- Select -- * Required Reset  Search (1) Record SelectedDateEmployee NameLeave TypeLeave Balance (Days)Number of DaysStatusCommentsActions2023-11-15 to 2023-11-16David Capcha HUGCAN - Vacation14.001.00Cancelled (1.00)Vacation')]</value>
+      <webElementGuid>036f2401-1bb0-43e4-9aeb-22bfffb0ea91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
